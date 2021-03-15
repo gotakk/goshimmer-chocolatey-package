@@ -7,6 +7,7 @@
     <authors>IOTA Foundation</authors>
     <projectUrl>https://github.com/iotaledger/goshimmer</projectUrl>
     <tags>goshimmer iota node pollen</tags>
+    <iconUrl>https://github.com/iotaledger/goshimmer/raw/develop/images/GoShimmer.png</iconUrl>
     <summary>Prototype node software for an IOTA network without the Coordinator</summary>
     <description>This repository is where the IOTA Foundation's Research Department tests the Coordicide modules to study and evaluate their performance.
 
